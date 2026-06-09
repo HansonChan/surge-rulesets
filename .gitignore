@@ -1,0 +1,9 @@
+.DS_Store
+*.conf
+*.mobileconfig
+*.p12
+*.pem
+*.key
+*.crt
+*.cer
+*.log
