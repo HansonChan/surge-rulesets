@@ -492,6 +492,7 @@ DOMAIN-SUFFIX,xiaohongshu.com
 DOMAIN-SUFFIX,doubao.com
 
 # Custom direct rules migrated from local Surge profiles
+DOMAIN-SUFFIX,cmbchina.com
 DOMAIN-SUFFIX,coolclip.sn
 DOMAIN-SUFFIX,zijieapi.com
 DOMAIN-SUFFIX,feishu.cn
