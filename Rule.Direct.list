@@ -17,7 +17,6 @@ PROCESS-NAME,aria2c
 PROCESS-NAME,fdm
 PROCESS-NAME,Folx
 PROCESS-NAME,NetTransport
-PROCESS-NAME,Thunder
 PROCESS-NAME,Transmission
 PROCESS-NAME,uTorrent
 PROCESS-NAME,WebTorrent
@@ -127,7 +126,6 @@ DOMAIN-SUFFIX,appstore.com
 DOMAIN-SUFFIX,autonavi.com
 DOMAIN-SUFFIX,bababian.com
 DOMAIN-SUFFIX,baidu.com
-DOMAIN-SUFFIX,battle.net
 DOMAIN-SUFFIX,bet365.com
 DOMAIN-SUFFIX,bdimg.com
 ## DOMAIN-SUFFIX,bdstatic.com

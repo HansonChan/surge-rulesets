@@ -22,7 +22,6 @@ IP-CIDR,108.175.0.0/16,no-resolve
 IP-CIDR,185.2.0.0/16,no-resolve
 IP-CIDR,185.9.0.0/16,no-resolve
 IP-CIDR,192.173.0.0/16,no-resolve
-IP-CIDR,192.173.0.0/16,no-resolve
 IP-CIDR,198.38.0.0/16,no-resolve
 IP-CIDR,198.45.0.0/16,no-resolve
 IP-CIDR,23.246.0.0/16,no-resolve
