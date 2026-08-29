@@ -16,4 +16,5 @@
 - Foundation `NSRegularExpression` compilation: all 7 `URL-REGEX` entries passed in both the repository source and installed mirror (`invalid_count=0`).
 - Behavior samples: tracker and magnet URLs matched; an ordinary URL did not.
 - Surge CLI profile validation: current profile is `new5`; `new5.modified.conf` and `mobile20260724-v2.conf` both returned `OK`.
+- Published commit `e84d5a5` to `origin/main`; GitHub Raw read-back showed the repaired rule at line 478. The active Surge external resource refresh returned `success` and its timestamp advanced to `2026-08-29 19:08:24 +08:00`.
 - External DNS evidence and exact validation commands are recorded in `test-results/2026-08-29-rule-customdirect-regex-fix.md`.
