@@ -413,6 +413,7 @@ URL-REGEX,^http:\/\/c\.tieba\.baidu\.com\/c\/s\/splashSchedule$
 DOMAIN,cm.bilibili.com
 #DOMAIN,dataflow.biliapi.com
 DOMAIN,data.bilibili.com
+DOMAIN,hilo.bilibili.com
 DOMAIN,miniapp.bilibili.com
 DOMAIN,thirdparty.biliapi.com
 URL-REGEX,https://app\.bilibili\.com/x/v2/param
